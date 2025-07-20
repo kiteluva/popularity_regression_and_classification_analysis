@@ -10,11 +10,11 @@ The music industry has undergone a significant transformation, shifting from phy
 1.2	OBJECTIVES.
 
 Main Objective:
-○ To build a predictive model that estimates a song's likelihood of success using its audio features.
-● Specific Objectives:
-○ Analyze how different song features contribute to popularity.
-○ Compare various machine learning approaches (like regression, classification) to find the most accurate prediction method.
-○ Evaluate our model's performance using key metrics like R-squared and AUC.
+*○ To build a predictive model that estimates a song's likelihood of success using its audio features.
+*● **Specific Objectives:**
+*○ Analyze how different song features contribute to popularity.
+*○ Compare various machine learning approaches (like regression, classification) to find the most accurate prediction method.
+*○ Evaluate our model's performance using key metrics like R-squared and AUC.
 
 1.3	REFRENCES.
 
